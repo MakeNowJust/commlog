@@ -57,10 +57,10 @@ object-assign
  * Licensed under the MIT License.
  */
 
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
 /*
 object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
