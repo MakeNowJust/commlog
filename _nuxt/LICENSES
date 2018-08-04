@@ -1,5 +1,20 @@
 /*!
- * Vue.js v2.5.16
+ * repeat-string <https://github.com/jonschlinkert/repeat-string>
+ *
+ * Copyright (c) 2014-2015, Jon Schlinkert.
+ * Licensed under the MIT License.
+ */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*!
+ * Vue.js v2.5.17
  * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
@@ -49,18 +64,3 @@ object-assign
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
  */
-
-/*!
- * repeat-string <https://github.com/jonschlinkert/repeat-string>
- *
- * Copyright (c) 2014-2015, Jon Schlinkert.
- * Licensed under the MIT License.
- */
-
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
