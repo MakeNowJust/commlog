@@ -10,23 +10,23 @@
  * @license MIT
  */
 
-/**
-  * vue-router v3.0.1
-  * (c) 2017 Evan You
+/*!
+  * vue-router v3.0.2
+  * (c) 2018 Evan You
   * @license MIT
   */
 
 /**
- * vue-meta v1.5.5
+ * vue-meta v1.5.6
  * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
 /*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
+	object-assign
+	(c) Sindre Sorhus
+	@license MIT
+	*/
 
 /*!
  * Determine if an object is a Buffer
@@ -40,11 +40,6 @@ object-assign
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
- */
-
-/*!
- * Font Awesome Free 5.5.0 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
 /*! *****************************************************************************
@@ -74,6 +69,11 @@ and limitations under the License.
  * https://github.com/csnover/TraceKit
  * @license MIT
  * @namespace TraceKit
+ */
+
+/*!
+ * Font Awesome Free 5.5.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
 /*!
