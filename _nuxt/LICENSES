@@ -1,5 +1,5 @@
 /*!
- * Vue.js v2.5.17
+ * Vue.js v2.5.19
  * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
@@ -72,20 +72,10 @@ and limitations under the License.
  */
 
 /*!
- * Font Awesome Free 5.5.0 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */
-
-/*!
  * repeat-string <https://github.com/jonschlinkert/repeat-string>
  *
  * Copyright (c) 2014-2015, Jon Schlinkert.
  * Licensed under the MIT License.
- */
-
-/*!
- * Font Awesome Free 5.5.0 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
 /*!
