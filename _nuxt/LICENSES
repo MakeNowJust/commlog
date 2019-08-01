@@ -1,24 +1,31 @@
 /*!
- * Vue.js v2.6.7
+ * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
 /**
- * vuex v3.1.0
+ * vuex v3.1.1
  * (c) 2019 Evan You
  * @license MIT
  */
 
 /*!
-  * vue-router v3.0.2
-  * (c) 2018 Evan You
+  * vue-router v3.0.7
+  * (c) 2019 Evan You
   * @license MIT
   */
 
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
 /**
- * vue-meta v1.5.8
- * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
+ * vue-meta v1.6.0
+ * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
@@ -27,13 +34,6 @@
 	(c) Sindre Sorhus
 	@license MIT
 	*/
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
@@ -49,20 +49,6 @@ MERCHANTABLITY OR NON-INFRINGEMENT.
 See the Apache Version 2.0 License for specific language governing permissions
 and limitations under the License.
 ***************************************************************************** */
-
-/**
- * TraceKit - Cross brower stack traces
- *
- * This was originally forked from github.com/occ/TraceKit, but has since been
- * largely modified and is now maintained as part of Sentry JS SDK.
- *
- * NOTE: Last merge with upstream repository
- * Jul 11,2018 - #f03357c
- *
- * https://github.com/csnover/TraceKit
- * @license MIT
- * @namespace TraceKit
- */
 
 /*!
  * repeat-string <https://github.com/jonschlinkert/repeat-string>
